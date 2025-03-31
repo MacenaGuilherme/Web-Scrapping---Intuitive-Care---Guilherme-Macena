@@ -1,3 +1,1 @@
-# Web-Scrapping---Intuitive-Care---Guilherme-Macena
-
-# O objetivo do código é realizar um Web Scrapping. Com ele, é possível retirar informações automaticamente dos sites, sendo muito importante em várias áreas de coleta de dados, monitoramento, automação, entre outros. 
+# Web-Scrapping--IntuitiveCare--Guilherme-Macena 
